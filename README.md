@@ -53,8 +53,6 @@ Open Your browser put inside URL:
 “http://localhost/store/”
 To Login as admin put inside URL:”http://localhost/store”
 user login details:
-Login Id: yugeshverma@gmail.com
+Login Id: praful@gmail.com
 Password:123456
 
-
-visit- https://projkectworlds.in
